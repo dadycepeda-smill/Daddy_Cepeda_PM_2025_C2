@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764213207 source:c:\users\moreltechnology\desktop\programa de la tarea 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
